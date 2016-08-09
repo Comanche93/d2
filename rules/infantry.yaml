@@ -1,6 +1,5 @@
 ^Infantry:
 	Inherits@1: ^ExistsInWorld
-	Inherits@2: ^GainsExperience
 	Inherits@3: ^SpriteActor
 	Health:
 		Shape: Circle
@@ -10,7 +9,7 @@
 	RevealsShroud:
 		Range: 1c768
 	Mobile:
-		Crushes: crate, spicebloom
+		Crushes: spicebloom
 		SharesCell: true
 		TerrainSpeeds:
 			Sand: 100
@@ -24,7 +23,7 @@
 			Rough: 80
 	SelectionDecorations:
 	Selectable:
-		Bounds: 16,16,0,0
+		Bounds: 11,11,0,0
 	Targetable:
 		TargetTypes: Ground, Infantry
 	BodyOrientation:

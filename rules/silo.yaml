@@ -9,13 +9,11 @@ silo:
 	Valued:
 		Cost: 150
 	CustomBuildTimeValue:
-		Value: 135
+		Value: 600
 	Tooltip:
 		Name: Silo
 		Description: Stores excess harvested Spice
 	Building:
-		Adjacent: 4
-	-GivesBuildableArea:
 	Health:
 		HP: 150
 	Armor:

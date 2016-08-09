@@ -9,7 +9,7 @@ high_tech_factory:
 	Valued:
 		Cost: 500
 	CustomBuildTimeValue:
-		Value: 405
+		Value: 1500
 	Tooltip:
 		Name: High Tech Factory
 		Description: Unlocks advanced technology
@@ -71,9 +71,9 @@ upgrade.hightech:
 		Queue: Upgrade
 		BuildLimit: 1
 	Valued:
-		Cost: 500
+		Cost: 200
 	CustomBuildTimeValue:
-		Value: 720
+		Value: 250
 	RenderSprites:
 		Image: hightech
 	ProvidesPrerequisite@upgradename:

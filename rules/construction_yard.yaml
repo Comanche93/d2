@@ -4,7 +4,6 @@ construction_yard:
 	Building:
 		Footprint: xx xx
 		Dimensions: 2,2
-		Adjacent: 4
 	LaysTerrain:
 		TerrainTypes: Rock
 		Template: 127
@@ -55,9 +54,9 @@ upgrade.conyard:
 		Queue: Upgrade
 		BuildLimit: 1
 	Valued:
-		Cost: 400
+		Cost: 200
 	CustomBuildTimeValue:
-		Value: 590
+		Value: 250
 	RenderSprites:
 		Image: conyard
 	ProvidesPrerequisite@upgradename:

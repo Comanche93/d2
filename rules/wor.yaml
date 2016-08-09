@@ -9,7 +9,7 @@ wor:
 	Valued:
 		Cost: 400
 	CustomBuildTimeValue:
-		Value: 231
+		Value: 1300
 	Tooltip:
 		Name: WOR
 		Description: Trains heavy infantry
@@ -70,9 +70,9 @@ upgrade.wor:
 		Queue: Upgrade
 		BuildLimit: 1
 	Valued:
-		Cost: 500
+		Cost: 150
 	CustomBuildTimeValue:
-		Value: 290
+		Value: 250
 	RenderSprites:
 		Image: wor
 	ProvidesPrerequisite@upgradename:

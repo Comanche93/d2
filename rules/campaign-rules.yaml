@@ -4,14 +4,13 @@ Player:
 		EarlyGameOver: true
 	Shroud:
 		FogLocked: True
-		FogEnabled: True
+		FogEnabled: False
 		ExploredMapLocked: True
 		ExploredMapEnabled: False
 	PlayerResources:
 		DefaultCashLocked: True
 
 World:
-	-CrateSpawner:
 	-SpawnMPUnits:
 	-MPStartLocations:
 	ObjectivesPanel:

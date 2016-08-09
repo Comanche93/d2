@@ -9,7 +9,7 @@ light_factory:
 	Valued:
 		Cost: 400
 	CustomBuildTimeValue:
-		Value: 277
+		Value: 1200
 	Tooltip:
 		Name: Light Factory
 		Description: Produces light vehicles
@@ -70,9 +70,9 @@ upgrade.light:
 		Queue: Upgrade
 		BuildLimit: 1
 	Valued:
-		Cost: 400
+		Cost: 200
 	CustomBuildTimeValue:
-		Value: 215
+		Value: 250
 	RenderSprites:
 		Image: light
 	ProvidesPrerequisite@upgradename:

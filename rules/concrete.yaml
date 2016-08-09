@@ -1,10 +1,11 @@
 ^concrete:
 	AlwaysVisible:
 	Building:
-		Adjacent: 4
 		TerrainTypes: Rock
 		BuildSounds: CHUNG.WAV
 		AllowInvalidPlacement: true
+		Adjacent: 1
+	GivesBuildableArea:
 	Tooltip:
 		Name: Concrete
 		Description: Provides a strong foundation that prevents\ndamage from the terrain.
@@ -30,7 +31,7 @@ concretea:
 	Valued:
 		Cost: 5
 	CustomBuildTimeValue:
-		Value: 54
+		Value: 200
 
 concreteb:
 	Inherits: ^concrete

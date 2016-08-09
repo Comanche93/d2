@@ -1,9 +1,9 @@
 deviator:
 	Inherits: ^Tank
 	Valued:
-		Cost: 1000
+		Cost: 750
 	CustomBuildTimeValue:
-		Value: 486
+		Value: 1000
 	Tooltip:
 		Name: Deviator
 		Description: Fires a warhead which changes\nthe allegiance of enemy vehicles

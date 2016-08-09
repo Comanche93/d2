@@ -5,9 +5,9 @@ mcv:
 		Queue: Armor
 		BuildPaletteOrder: 110
 	Valued:
-		Cost: 2000
+		Cost: 900
 	CustomBuildTimeValue:
-		Value: 648
+		Value: 1000
 	Tooltip:
 		Name: Mobile Construction Vehicle
 		Description: Deploys into another Construction Yard\n  Unarmed
@@ -20,7 +20,7 @@ mcv:
 		Type: light
 	Mobile:
 		Speed: 31
-		Crushes: crate, infantry, spicebloom
+		Crushes: infantry, spicebloom
 	RevealsShroud:
 		Range: 2c768
 	MustBeDestroyed:

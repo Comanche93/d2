@@ -6,9 +6,9 @@ harvester:
 		BuildPaletteOrder: 10
 		InitialActivity: FindResources
 	Valued:
-		Cost: 1200
+		Cost: 300
 	CustomBuildTimeValue:
-		Value: 540
+		Value: 800
 	Tooltip:
 		Name: Spice Harvester
 		Description: Collects Spice for processing\n  Unarmed
@@ -29,7 +29,7 @@ harvester:
 		Type: harvester
 	Mobile:
 		Speed: 43
-		Crushes: crate, infantry, spicebloom
+		Crushes: infantry, spicebloom
 	RevealsShroud:
 		Range: 3c768
 	Explodes:
